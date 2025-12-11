@@ -24,7 +24,7 @@ from modules import (
 # ============================================================================
 
 # Gemini API key - hardcoded in backend
-GEMINI_API_KEY = "AIzaSyCWsHelkf6fL3cX6xuMDwPH9OkWjm9aIOI"
+GEMINI_API_KEY = ""
 
 # ============================================================================
 # CSS THEME SYSTEM - Role-Based + Light/Dark Mode
